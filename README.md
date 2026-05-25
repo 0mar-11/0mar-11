@@ -47,14 +47,14 @@ Console-based system using custom Linked List data structures
 🔗 [github.com/0mar-11/university-system](https://github.com/0mar-11/university-system)
 
 ### 📚 Library Management System | PHP, MySQL
-**2025**  
+**2026**  
 Full-stack web application with secure login
 - Relational database design (1NF-3NF)
 - SQL Injection prevention with prepared statements
 🔗 [github.com/0mar-11/library-system](https://github.com/0mar-11/library-system)
 
 ### 📧 Email Management System | PHP, MySQL
-**2025**  
+**2026**  
 Web-based email system with authentication
 - Secure user registration and login
 - Input validation and secure coding
@@ -68,7 +68,7 @@ AI agent using BFS/DFS pathfinding algorithms
 🔗 [github.com/0mar-11/maze-solver](https://github.com/0mar-11/maze-solver)
 
 ### 🐧 Linux Automation Scripts | Bash, Kali
-**2025**  
+**2026**  
 Bash scripts for system administration
 - User management and log monitoring
 - File permission checks
