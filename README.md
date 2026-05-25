@@ -15,6 +15,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="600" alt="Cyber Security Animation">
+</p>
+
 ---
 
 ## 👨‍ About Me
