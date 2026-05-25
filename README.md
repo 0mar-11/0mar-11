@@ -132,6 +132,13 @@ Network Security • Cryptography • Data Structures • OOP • Database Syste
 - [ ] SIEM tools (Wazuh, Splunk)
 - [ ] CTF challenges on TryHackMe
 - [ ] Advanced Network Security
+- [ ] ## 🐛 Bug Hunting & Security Research
+- 🎯 **Platforms:** HackerOne, Bugcrowd, Intigriti (Active Learner)
+- 🔍 **Focus Areas:** Web App Security, OWASP Top 10, IDOR, XSS, SQLi, SSRF
+- 🛠️ **Tools:** Burp Suite (Community/Pro), OWASP ZAP, ffuf, Nuclei, subfinder, httpx
+- 📚 **Practice & Labs:** PortSwigger Web Security Academy, Hacker101, TryHackMe (Web Fundamentals)
+- 📝 **Methodology:** Reconnaissance → Enumeration → Vulnerability Discovery → Validation → Responsible Disclosure
+- 📊 **Progress:** Solving labs daily, writing practice reports, and tracking vulnerability patterns
 
 ---
 
