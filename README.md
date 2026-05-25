@@ -65,7 +65,7 @@ Web-based email system with authentication
 AI agent using BFS/DFS pathfinding algorithms
 - Visualized pathfinding process
 - Optimized for shortest path
-🔗 [github.com/0mar-11/maze-solver](https://github.com/0mar-11/maze-solver)
+🔗 [github.com/0mar-11/maze-solver](https://github.com/0mar-11/Maze-Solver-AI)
 
 ### 🐧 Linux Automation Scripts | Bash, Kali
 **2026**  
