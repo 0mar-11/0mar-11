@@ -72,7 +72,7 @@ AI agent using BFS/DFS pathfinding algorithms
 Bash scripts for system administration
 - User management and log monitoring
 - File permission checks
-🔗 [github.com/0mar-11/bash-scripts](https://github.com/0mar-11/bash-scripts)
+🔗 [github.com/0mar-11/bash-scripts](https://github.com/0mar-11/kali-bash-scripts)
 
 ---
 
